@@ -1,4 +1,4 @@
-   PROJECT NAME - CS6910-Assignment-1
+   FeedForward Neural Network Implementation.
    
    TYPE OF PROJECT- Deep Learning
    
